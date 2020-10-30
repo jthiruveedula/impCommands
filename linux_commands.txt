@@ -255,4 +255,4 @@ RUN pip3 install tensorflow keras pandas
 """ > Dockerfile
 
 kubeadm join 192.168.1.110:6443 --token etyrwc.507wplbrv3po0z5r \
-    --discovery-token-ca-cert-hash sha256:1e6392921059a0031b21d69bb4d089c4e6bf04df65ccb18fbfe6928270fde350
+    --discovery-token-ca-cert-hash sha256:token
