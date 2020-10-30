@@ -202,13 +202,13 @@ kubectl get pods --server https://192.168.99.100:8443 --client-key /root/client.
 #kubectl rollout undo deploy myweb-deploy
 
 minikube start
-kubectl create deployment myprom --image=vimal13/prometheus
+kubectl create deployment myprom --image=jaga77/prometheus
 kubectl get all
 kubectl expose myprom --type=NodePort --port=9090
 kubectl expose deployment myprom --type=NodePort --port=9090
 minikube ip
 kubectl get all
-kubectl create deployment mygraf --image=vimal13/grafana
+kubectl create deployment mygraf --image=jaga77/grafana
 kubectl expose deployment mygraf --type=NodePort --port=3000
 
 kubectl get pods -o wide --kubeconfig config

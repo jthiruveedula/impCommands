@@ -155,23 +155,5 @@ Failed to get D-Bus connection: Operation not permitted
 
 [root@localhost ~]# docker login 
 
-# docker tag clone-web:v2  vimal13/clone-web:v2
-[root@localhost ~]# docker push   vimal13/clone-web:v2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# docker tag clone-web:v2  jaga77/clone-web:v2
+[root@localhost ~]# docker push   jaga77/clone-web:v2
