@@ -1,0 +1,38 @@
+#git commands:
+git clone branch.git
+git status
+git log file.name
+git status 
+git reset comid file.name
+git checkout -- file.name
+#Intializing repository in local
+git init
+git remote -v
+#create repo in github without initialization
+git remote add jagadeesh https://github.com/jthiruveedula/devops.git
+git push --up-stream jagadeesh master
+
+git hooks:
+post-commit
+pre-commit
+
+
+git branch newbranch
+git checkout -b newbranch
+git push -u origin master
+git branch 
+git checkout
+git log --online --graph --decorate
+gitk(for tracking commits in graphical manner)
+git merge branchname
+git push --all(for updating all branches)
+git rebase master(all updates from master will be captured to checkedout branch)
+git config --global --list
+git config --global merge.tool p4merge
+
+ git config merge.tool vimdiff
+ git config merge.conflictstyle diff3
+ git config mergetool.prompt false
+
+QA : pass
+curl --user "admin:redhat" http://192.168.0.103:8080/job/prodenv/build?token=redhat

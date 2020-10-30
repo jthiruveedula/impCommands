@@ -1,0 +1,10 @@
+----job function to create job with name----
+job("my job"){
+description ("my first desc")
+scm{
+	github('jthiruveedula/dockerjentest','master')
+}
+triggers{
+	scm("* * * * *")
+}
+}

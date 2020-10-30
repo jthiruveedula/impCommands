@@ -1,0 +1,63 @@
+
+[ Task1 ]
+https://www.linkedin.com/posts/whytedork_session8abrdevopsabrtask-righteducation-rightmentor-activity-6664042084539998208-M1bT
+[ Task 2 ] https://www.linkedin.com/posts/whytedork_devops-task2-project-activity-6667784408805851136-EnQa
+[ Task 3]
+https://teknoboost.wordpress.com/2020/07/24/integration-of-gitgithubjenkins-and-kubernetes/
+[ Task 4]
+https://teknoboost.wordpress.com/2020/07/20/integration-of-kubernetes-and-jenkins-dynamic-slave/
+[ Task 5 ]
+https://teknoboost.wordpress.com/2020/06/17/integrate-prometheus-and-grafana-on-the-top-of-kubernetes/
+[ Task 6 ]
+https://teknoboost.wordpress.com/2020/07/23/create-jenkins-pipeline-using-groovy-and-integrate-with-the-github-and-kubernetes/
+
+1-The Elements of Statistical Learning
+https://lnkd.in/gd-PpCa
+ 
+2-Introductory Time Series with R
+https://lnkd.in/gemsHzv
+ 
+3-A Beginner’s Guide to R
+https://lnkd.in/gwQ6m_B
+  
+4-Data Structures and Algorithms with Python
+https://lnkd.in/g9_djwr
+ 
+5-Introduction to Statistics and Data Analysis
+https://lnkd.in/gUUJMCj
+ 
+6-Principles of Data Mining
+https://lnkd.in/gMgmc-P
+ 
+7-Computer Vision
+https://lnkd.in/gftqxf9
+ 
+8-Data Mining
+https://lnkd.in/gJ6iugA
+ 
+9-Robotics, Vision and Control
+https://lnkd.in/gq-q9i5
+ 
+10-Statistical Analysis and Data Display
+https://lnkd.in/grCNSYq
+ 
+11-Statistics and Data Analysis for Financial Engineering
+https://lnkd.in/gRn8zWd
+ 
+12-Stochastic Processes and Calculus
+https://lnkd.in/gnWaWW6
+
+13Statistical Analysis of Clinical Data on a Pocket Calculator
+https://lnkd.in/gM7VCgG
+
+14-Clinical Data Analysis on a Pocket Calculator
+https://lnkd.in/gvxBvg6
+
+15-The Data Science Design Manual
+https://lnkd.in/gKxgaRD
+
+16-An Introduction to Machine Learning
+https://lnkd.in/gykPC2B
+
+Follow for AI and Data Science Posts: 
+https://lnkd.in/gZu463X
